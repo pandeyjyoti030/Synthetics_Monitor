@@ -20,7 +20,7 @@ condition = {
     "name"             = "BROWSER_MONITOR"
     "period"           = "EVERY_6_HOURS"
     "uri"              = "https://www.one.newrelic.com"
-    "type"             = "SIMPLE"
+    "type"             = "BROWSER"
     "locations_public" = "US_WEST_1"
 
     "treat_redirect_as_failure" = true
